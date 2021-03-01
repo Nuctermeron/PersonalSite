@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.Top {
+  background-color: #e3fdfd;
+}
+
+.Mid {
+  background-color: #cbf1f5;
+}
+
+.Bot {
+  background-color: #a6e3e9;
+}
